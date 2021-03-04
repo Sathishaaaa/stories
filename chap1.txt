@@ -1,1 +1,2 @@
 We created a file in our working repository inside our directory.
+But now we want a new repositiry too.
